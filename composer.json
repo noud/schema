@@ -1,5 +1,5 @@
 {
-    "name": "dfba/schema",
+    "name": "noud/schema",
     "description": "Read database schema, table and column metadata in Laravel or plain PHP.",
     "require": {
         "nesbot/carbon": "^1.20"
